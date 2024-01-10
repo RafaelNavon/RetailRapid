@@ -39,7 +39,7 @@ const data = {
       category: "Pants",
       image: "/images/p4.jpg",
       price: 70,
-      countInStock: 24,
+      countInStock: 0,
       rating: 3.9,
       numReviews: 10,
       description: "pretty good",
