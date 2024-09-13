@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: "1",
       name: "Ralph Lauren shirt",
       slug: "ralph-lauren-shirt",
       category: "Shirts",
@@ -12,6 +13,7 @@ const data = {
       description: "high quality shirt",
     },
     {
+      _id: "2",
       name: "Tommy Hilfiger shirt",
       slug: "tommy-hilfiger-shirt",
       category: "Shirts",
@@ -23,6 +25,7 @@ const data = {
       description: "very comfy",
     },
     {
+      _id: "3",
       name: "Ralph Lauren pants",
       slug: "ralph-lauren-pants",
       category: "Pants",
@@ -34,6 +37,7 @@ const data = {
       description: "Definitly worth it",
     },
     {
+      _id: "4",
       name: "Tommy Hilfiger pants",
       slug: "tommy-hilfiger-pants",
       category: "Pants",
