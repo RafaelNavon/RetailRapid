@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useReducer } from "react";
 import { useNavigate } from "react-router-dom";
-import Button from "react-bootstrap/Button";
+import Button from "react-bootstrap/esm/Button";
 import { Helmet } from "react-helmet-async";
 import axios from "axios";
 import LoadingBox from "../components/LoadingBox";
